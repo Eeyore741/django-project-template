@@ -9,6 +9,8 @@ For `Django == 1.8.4`
 	django-admin startproject project_name --template=https://github.com/1vank1n/django-project-template/archive/master.zip
 	pip install -r requirements.txt
 	npm i
+	
+	jfosdijfoeskiojroierjnksjvnskjvndj
 
 ## Usage
 
